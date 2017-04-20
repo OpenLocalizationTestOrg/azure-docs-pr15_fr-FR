@@ -1,0 +1,1 @@
+Il est également possible de connecter VNets sans l’aide d’une passerelle VPN. Si votre VNets se trouvent dans la même région, vous souhaiterez peut-être à prendre en considération les connectant à l’aide de VNet peering. Pour plus d’informations, voir l’article [VNet peering](../articles/virtual-network/virtual-network-peering-overview.md) .

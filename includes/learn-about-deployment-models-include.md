@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Avant de travailler avec les ressources Azure, vous familiariser avec les modèles de déploiement : [Gestionnaire de ressources et classique](../articles/resource-manager-deployment-model.md).

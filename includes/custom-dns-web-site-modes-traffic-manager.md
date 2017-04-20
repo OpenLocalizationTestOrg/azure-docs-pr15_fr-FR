@@ -1,0 +1,3 @@
+Définition d’un nom de domaine personnalisé dans une application web dans le Service d’application Azure qui est le trafic par le Gestionnaire de périphériques d’équilibrage n’est disponible que pour les sites Web en mode **Standard** . Avant de passer d’une application web à partir du mode plan de Service d’application gratuit au mode partagé, Basic ou Standard, vous devez d’abord supprimer VERR. MAJ dépenses en place pour votre abonnement au Service d’application. 
+
+Pour plus d’informations sur les modes de plan de Service d’application, notamment sur la façon de modifier le mode de votre site, Découvrez [comment mettre à l’échelle des sites web](../articles/app-service-web/web-sites-scale.md).

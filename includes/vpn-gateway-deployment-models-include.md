@@ -1,0 +1,5 @@
+Il est important de comprendre que Azure travaille actuellement avec deux modèles de déploiement : Gestionnaire de ressources et classique. Avant de commencer votre configuration, vérifiez que vous utilisez les instructions pour le modèle de déploiement que vous voulez travailler dans. Les deux modèles ne sont pas entièrement compatibles entre eux.
+
+Par exemple, si vous travaillez avec un réseau virtuel qui a été créé à l’aide du modèle de déploiement classique et souhaitez ajouter une connexion à la VNet, vous utiliseriez les méthodes de déploiement qui correspondent au modèle de déploiement classique, pas le Gestionnaire de ressources. Si vous travaillez avec un réseau virtuel qui a été créé à l’aide du modèle de déploiement Gestionnaire de ressources, vous utiliserez les méthodes de déploiement qui correspondent avec Gestionnaire de ressources, pas classique.
+
+Pour plus d’informations sur les modèles de déploiement, voir [Présentation du gestionnaire ressource déploiement et déploiement classique](../articles/resource-manager-deployment-model.md).

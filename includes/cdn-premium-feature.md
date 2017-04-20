@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT] Ceci est une fonctionnalité de **Azure CDN Premium auprès de Verizon**et n’est pas disponible avec les produits **Azure CDN Standard** .  Pour une comparaison des fonctionnalités CDN, voir [Vue d’ensemble de Azure CDN](cdn-overview.md#azure-cdn-features). 

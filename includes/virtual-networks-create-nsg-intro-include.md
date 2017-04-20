@@ -1,0 +1,3 @@
+Vous pouvez utiliser un NSG pour contrôler le trafic à une ou plusieurs machines virtuelles (machines virtuelles), instances de rôle, cartes réseau (cartes réseau) ou sous-réseaux de votre réseau virtuel. Un NSG contient des règles de contrôle d’accès autoriser ou refuser le trafic en fonction de la direction du trafic, protocole, adresse source et de port et adresse de destination et port. Les règles d’un NSG peuvent être modifiées à tout moment et modifications sont appliquées à toutes les instances associées.
+
+Pour plus d’informations sur NSGs, consultez [qu’est un NSG](../articles/virtual-network/virtual-networks-nsg.md).
