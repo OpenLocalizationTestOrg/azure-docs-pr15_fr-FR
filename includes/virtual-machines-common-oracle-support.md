@@ -1,0 +1,1 @@
+> [AZURE.IMPORTANT]  Ce contenu est déconseillé et n’est plus en cours de maintenance.  Pour consulter un résumé de prise en charge Oracle sur Azure, voir [cela publié instruction de prise en charge.](http://www.oracle.com/technetwork/topics/cloud/faq-1963009.html#support)

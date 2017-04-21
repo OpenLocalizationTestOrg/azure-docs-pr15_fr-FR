@@ -1,0 +1,2 @@
+> [AZURE.NOTE]
+> Le fichier .publishsettings contient vos informations d’identification (non codées) qui sont utilisées pour gérer vos abonnements Azure et services. La meilleure pratique de sécurité pour ce fichier consiste à stocker temporairement en dehors de votre répertoires source (par exemple dans le dossier Libraries\Documents), puis supprimez-la une fois l’importation terminée. Un utilisateur malveillant qui accède au fichier .publishsettings peut modifier, créer et supprimer vos services Azure.
